@@ -1,0 +1,1 @@
+# ntp-calc-images-extraction
