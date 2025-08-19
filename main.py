@@ -4,6 +4,7 @@ import shutil
 import zipfile
 import random
 import string
+import hashlib
 from odf.opendocument import load
 from odf.table import Table, TableRow, TableCell
 from odf.draw import Frame, Image
@@ -150,7 +151,6 @@ def export_and_rename_images(cells, first_letters, insect_id, row_idx, ns, ods):
 
 def extract_and_label_image(image_cell,first_letters, insect_id, ns, ods):
 
-    random_string = ''.join(random.choices(string.ascii_letters + string.digits, k=8)).lower()
 
     if image_cell is not None:
         image_elem = image_cell.find('.//draw:image', ns)
@@ -159,7 +159,8 @@ def extract_and_label_image(image_cell,first_letters, insect_id, ns, ods):
             image_data = ods.read(image_path)
             image_name = os.path.basename(image_path)
             file_type = image_name.split('.')[-1].lower()
-            file_name = f"{insect_id}_{first_letters}_{random_string}.{file_type}"
+            stable_id = stable_random(image_path)
+            file_name = f"{insect_id}_{first_letters}_{stable_id}.{file_type}"
             output_path = os.path.join(config.OUTPUT_FOLDER, file_name)
             with open(output_path, 'wb') as f:
                 f.write(image_data)
@@ -167,7 +168,9 @@ def extract_and_label_image(image_cell,first_letters, insect_id, ns, ods):
     return None
 
 
-
+def stable_random(name: str) -> str:
+    """Generate a reproducible short string from a filename."""
+    return hashlib.md5(name.encode()).hexdigest()[:8]
 
 if __name__ == "__main__":
     main()
