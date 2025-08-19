@@ -1,0 +1,387 @@
+[
+    {
+        "insect_id": 1,
+        "generic_name": "Oriental Cockroach",
+        "specific_name": "Blatta orientalis"
+    },
+    {
+        "insect_id": 2,
+        "generic_name": "German Cockroach",
+        "specific_name": "Blattella germanica"
+    },
+    {
+        "insect_id": 3,
+        "generic_name": "Brown banded cockroach",
+        "specific_name": "Supella longipalpa"
+    },
+    {
+        "insect_id": 4,
+        "generic_name": "Churchyard Beetle",
+        "specific_name": "Blaps mucronata"
+    },
+    {
+        "insect_id": 5,
+        "generic_name": "Yellow Mealworm Beetle",
+        "specific_name": "Tenebrio molitor"
+    },
+    {
+        "insect_id": 6,
+        "generic_name": "Biscuit Beetle",
+        "specific_name": "Stegobium paniceum"
+    },
+    {
+        "insect_id": 7,
+        "generic_name": "House cricket",
+        "specific_name": "Acheta domesticus"
+    },
+    {
+        "insect_id": 8,
+        "generic_name": "Confused flour beetle",
+        "specific_name": "Tribolium confusum"
+    },
+    {
+        "insect_id": 9,
+        "generic_name": "Rust red flour beetle",
+        "specific_name": "Tribolium castaneum"
+    },
+    {
+        "insect_id": 10,
+        "generic_name": "Saw-toothed grain beetle",
+        "specific_name": "Oryzaephilus surinamensis"
+    },
+    {
+        "insect_id": 11,
+        "generic_name": "Merchant grain beetle",
+        "specific_name": "Oryzaephilus mercator"
+    },
+    {
+        "insect_id": 12,
+        "generic_name": "Flat grain beetle",
+        "specific_name": "Cryptolestes ferrugineus"
+    },
+    {
+        "insect_id": 13,
+        "generic_name": "lesser grain borer",
+        "specific_name": "Rhyzopertha dominica"
+    },
+    {
+        "insect_id": 14,
+        "generic_name": "Fur beetle",
+        "specific_name": "Attagenus pellio"
+    },
+    {
+        "insect_id": 15,
+        "generic_name": "Varied carpet beetle",
+        "specific_name": "Anthrenus verbasci"
+    },
+    {
+        "insect_id": 16,
+        "generic_name": "Dried fruit beetle",
+        "specific_name": "Carpophilus hemipterus"
+    },
+    {
+        "insect_id": 17,
+        "generic_name": "Larder beetle",
+        "specific_name": "Dermestes lardarius"
+    },
+    {
+        "insect_id": 18,
+        "generic_name": "Khapra beetle",
+        "specific_name": "Trogoderma granarium"
+    },
+    {
+        "insect_id": 19,
+        "generic_name": "Yellow mealworm beetle",
+        "specific_name": "Tenebrio molitor"
+    },
+    {
+        "insect_id": 20,
+        "generic_name": "Woodworm beetle",
+        "specific_name": "Anobium punctatum"
+    },
+    {
+        "insect_id": 21,
+        "generic_name": "Tobacco beetle",
+        "specific_name": "Lasioderma serricorne"
+    },
+    {
+        "insect_id": 22,
+        "generic_name": "Common wasp",
+        "specific_name": "Vespula vulgaris"
+    },
+    {
+        "insect_id": 23,
+        "generic_name": "European Hornet",
+        "specific_name": "Vespa crabro"
+    },
+    {
+        "insect_id": 24,
+        "generic_name": "Black garden ant",
+        "specific_name": "Lasius niger"
+    },
+    {
+        "insect_id": 25,
+        "generic_name": "Pharaoh ant",
+        "specific_name": "Monomorium pharaonis"
+    },
+    {
+        "insect_id": 26,
+        "generic_name": "Grain weevil",
+        "specific_name": "Sitophilus granarius"
+    },
+    {
+        "insect_id": 27,
+        "generic_name": "Rice weevil",
+        "specific_name": "Sitophilus oryzae"
+    },
+    {
+        "insect_id": 28,
+        "generic_name": "Flea",
+        "specific_name": "Ctenocephalides spp"
+    },
+    {
+        "insect_id": 29,
+        "generic_name": "Bed bug",
+        "specific_name": "Cimex lectularius"
+    },
+    {
+        "insect_id": 30,
+        "generic_name": "Head louse",
+        "specific_name": "Pediculus humanus"
+    },
+    {
+        "insect_id": 31,
+        "generic_name": "Book louse",
+        "specific_name": "Psocid spp"
+    },
+    {
+        "insect_id": 32,
+        "generic_name": "Common housefly",
+        "specific_name": "Musca domestica"
+    },
+    {
+        "insect_id": 33,
+        "generic_name": "lesser housefly",
+        "specific_name": "Fannia canicularis"
+    },
+    {
+        "insect_id": 34,
+        "generic_name": "Bluebottle fly",
+        "specific_name": "Caliphora vomitora"
+    },
+    {
+        "insect_id": 35,
+        "generic_name": "Greenbottle fly",
+        "specific_name": "Lucilia sericata"
+    },
+    {
+        "insect_id": 36,
+        "generic_name": "Cluster fly",
+        "specific_name": "Pollenia rudis"
+    },
+    {
+        "insect_id": 37,
+        "generic_name": "Drain fly",
+        "specific_name": "Psychodidae spp"
+    },
+    {
+        "insect_id": 38,
+        "generic_name": "Window gnat",
+        "specific_name": "Sylvicola fenestralis"
+    },
+    {
+        "insect_id": 39,
+        "generic_name": "Fruit fly",
+        "specific_name": "Drosophila spp"
+    },
+    {
+        "insect_id": 40,
+        "generic_name": "Phorid fly",
+        "specific_name": "Phoridae spp"
+    },
+    {
+        "insect_id": 41,
+        "generic_name": "Drone fly",
+        "specific_name": "Eristalis tenax"
+    },
+    {
+        "insect_id": 42,
+        "generic_name": "Brown house moth",
+        "specific_name": "Hofmannophila pseudospretella"
+    },
+    {
+        "insect_id": 43,
+        "generic_name": "White shouldered house moth",
+        "specific_name": "Endrosis sarcitrella"
+    },
+    {
+        "insect_id": 44,
+        "generic_name": "Mill moth",
+        "specific_name": "Ephestia kuehniella"
+    },
+    {
+        "insect_id": 45,
+        "generic_name": "Warehouse moth",
+        "specific_name": "Ephestia elutella"
+    },
+    {
+        "insect_id": 46,
+        "generic_name": "Tropical warehouse moth",
+        "specific_name": "Ephestia cautella"
+    },
+    {
+        "insect_id": 47,
+        "generic_name": "Indian meal moth",
+        "specific_name": "Plodia interpunctella"
+    },
+    {
+        "insect_id": 48,
+        "generic_name": "common Clothes moth",
+        "specific_name": "Tineola bisselliella"
+    },
+    {
+        "insect_id": 49,
+        "generic_name": "Australian spider beetle",
+        "specific_name": "Ptinus tectus"
+    },
+    {
+        "insect_id": 50,
+        "generic_name": "Hump spider beetle",
+        "specific_name": "Gibbium psylloides"
+    },
+    {
+        "insect_id": 51,
+        "generic_name": "Golden spider beetle",
+        "specific_name": "Niptus hololeucus"
+    },
+    {
+        "insect_id": 52,
+        "generic_name": "copra beetle",
+        "specific_name": "Necrobia rufipes"
+    },
+    {
+        "insect_id": 53,
+        "generic_name": "lesser mealworm beetle",
+        "specific_name": "Alphitobius diaperinus"
+    },
+    {
+        "insect_id": 54,
+        "generic_name": "yellow swarming fly",
+        "specific_name": "Thaumatoyia notata"
+    },
+    {
+        "insect_id": 55,
+        "generic_name": "Ootheca Oriental Cockroach",
+        "specific_name": "Blatta orientalis"
+    },
+    {
+        "insect_id": 56,
+        "generic_name": "Ootheca German Cockroach",
+        "specific_name": "Blattella germanica"
+    },
+    {
+        "insect_id": 57,
+        "generic_name": "Ootheca Brown banded cockroach",
+        "specific_name": "Supella longipalpa"
+    },
+    {
+        "insect_id": 58,
+        "generic_name": "Ootheca American Cockroach",
+        "specific_name": "Periplaneta americana"
+    },
+    {
+        "insect_id": 59,
+        "generic_name": "American Cockroach",
+        "specific_name": "Periplaneta americana"
+    },
+    {
+        "insect_id": 60,
+        "generic_name": "Australian Cockroach",
+        "specific_name": "Periplaneta australasiae"
+    },
+    {
+        "insect_id": 61,
+        "generic_name": "broad horned flour beetle",
+        "specific_name": "Gnatocerus cornutus"
+    },
+    {
+        "insect_id": 62,
+        "generic_name": "case bearing clothes moth",
+        "specific_name": "Tinea pellionella"
+    },
+    {
+        "insect_id": 63,
+        "generic_name": "Pupae lesser housefly",
+        "specific_name": "Fannia canicularis"
+    },
+    {
+        "insect_id": 64,
+        "generic_name": "Whitemarked spider beetle",
+        "specific_name": "Ptinus fur"
+    },
+    {
+        "insect_id": 65,
+        "generic_name": "Mosquitoe",
+        "specific_name": "Culicidae spp"
+    },
+    {
+        "insect_id": 66,
+        "generic_name": "Asian Tiger mosquitoe",
+        "specific_name": "Aedes albopictus"
+    },
+    {
+        "insect_id": 67,
+        "generic_name": "non biting midge",
+        "specific_name": "Chironomidae spp"
+    },
+    {
+        "insect_id": 68,
+        "generic_name": "Larvae dermestes beetle",
+        "specific_name": "Dermestes lardarius"
+    },
+    {
+        "insect_id": 69,
+        "generic_name": "Museum Beetle",
+        "specific_name": "Anthrenus museorum"
+    },
+    {
+        "insect_id": 70,
+        "generic_name": "Death watch beetle",
+        "specific_name": "Xestobium rufovillosum"
+    },
+    {
+        "insect_id": 71,
+        "generic_name": "Firebrat",
+        "specific_name": "Thermobia domestica"
+    },
+    {
+        "insect_id": 72,
+        "generic_name": "fungus beetle",
+        "specific_name": "Mycetophagidae"
+    },
+    {
+        "insect_id": 73,
+        "generic_name": "silverfish",
+        "specific_name": "Lepisma saccharina"
+    },
+    {
+        "insect_id": 74,
+        "generic_name": "Plaster beetle",
+        "specific_name": "Latridiidae"
+    },
+    {
+        "insect_id": 75,
+        "generic_name": "Fungus Beetle",
+        "specific_name": "Cryptophagidae"
+    },
+    {
+        "insect_id": 76,
+        "generic_name": "Larvae flour beetle",
+        "specific_name": "Tribolium spp"
+    },
+    {
+        "insect_id": 77,
+        "generic_name": "Biting midge",
+        "specific_name": "Culicoides"
+    }
+]

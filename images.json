@@ -1,0 +1,406 @@
+[
+    {
+        "insect_id": 1,
+        "url": "https://example.com/s3-bucket/1_oc_9sopo14b.png"
+    },
+    {
+        "insect_id": 1,
+        "url": "https://example.com/s3-bucket/1_oc_a73k7r1n.jpg"
+    },
+    {
+        "insect_id": 1,
+        "url": "https://example.com/s3-bucket/1_oc_l7dt0uzi.jpg"
+    },
+    {
+        "insect_id": 2,
+        "url": "https://example.com/s3-bucket/2_gc_lhg3djrv.png"
+    },
+    {
+        "insect_id": 2,
+        "url": "https://example.com/s3-bucket/2_gc_eoh6xvoy.jpg"
+    },
+    {
+        "insect_id": 2,
+        "url": "https://example.com/s3-bucket/2_gc_ckkpdme3.jpg"
+    },
+    {
+        "insect_id": 3,
+        "url": "https://example.com/s3-bucket/3_bbc_3vc7fzjd.png"
+    },
+    {
+        "insect_id": 4,
+        "url": "https://example.com/s3-bucket/4_cb_yoit23ap.png"
+    },
+    {
+        "insect_id": 5,
+        "url": "https://example.com/s3-bucket/5_ymb_3upytv0e.png"
+    },
+    {
+        "insect_id": 6,
+        "url": "https://example.com/s3-bucket/6_bb_khk58t4b.png"
+    },
+    {
+        "insect_id": 7,
+        "url": "https://example.com/s3-bucket/7_hc_oroeayzv.png"
+    },
+    {
+        "insect_id": 8,
+        "url": "https://example.com/s3-bucket/8_cfb_zcwcjjux.png"
+    },
+    {
+        "insect_id": 9,
+        "url": "https://example.com/s3-bucket/9_rrfb_vcg8y5ww.png"
+    },
+    {
+        "insect_id": 10,
+        "url": "https://example.com/s3-bucket/10_sgb_9az56trh.png"
+    },
+    {
+        "insect_id": 11,
+        "url": "https://example.com/s3-bucket/11_mgb_xwpyfctw.png"
+    },
+    {
+        "insect_id": 12,
+        "url": "https://example.com/s3-bucket/12_fgb_zjuzbtqe.png"
+    },
+    {
+        "insect_id": 13,
+        "url": "https://example.com/s3-bucket/13_lgb_e6y9cjkb.png"
+    },
+    {
+        "insect_id": 14,
+        "url": "https://example.com/s3-bucket/14_fb_o1u72hlh.png"
+    },
+    {
+        "insect_id": 15,
+        "url": "https://example.com/s3-bucket/15_vcb_gcugxg2o.png"
+    },
+    {
+        "insect_id": 16,
+        "url": "https://example.com/s3-bucket/16_dfb_liiliwuh.png"
+    },
+    {
+        "insect_id": 17,
+        "url": "https://example.com/s3-bucket/17_lb_6homw5tg.png"
+    },
+    {
+        "insect_id": 18,
+        "url": "https://example.com/s3-bucket/18_kb_yq8ckcug.png"
+    },
+    {
+        "insect_id": 19,
+        "url": "https://example.com/s3-bucket/19_ymb_hb4c0cvz.png"
+    },
+    {
+        "insect_id": 20,
+        "url": "https://example.com/s3-bucket/20_wb_ljd1tpxt.png"
+    },
+    {
+        "insect_id": 21,
+        "url": "https://example.com/s3-bucket/21_tb_emi0bo70.png"
+    },
+    {
+        "insect_id": 22,
+        "url": "https://example.com/s3-bucket/22_cw_zqc3hwbu.png"
+    },
+    {
+        "insect_id": 23,
+        "url": "https://example.com/s3-bucket/23_eh_ywpe8fit.png"
+    },
+    {
+        "insect_id": 24,
+        "url": "https://example.com/s3-bucket/24_bga_9slwsc0n.png"
+    },
+    {
+        "insect_id": 25,
+        "url": "https://example.com/s3-bucket/25_pa_reeoo9ks.png"
+    },
+    {
+        "insect_id": 25,
+        "url": "https://example.com/s3-bucket/25_pa_1axsgcpq.png"
+    },
+    {
+        "insect_id": 26,
+        "url": "https://example.com/s3-bucket/26_gw_kt0dzetg.png"
+    },
+    {
+        "insect_id": 27,
+        "url": "https://example.com/s3-bucket/27_rw_ix8zdkav.png"
+    },
+    {
+        "insect_id": 27,
+        "url": "https://example.com/s3-bucket/27_rw_q7pgattx.png"
+    },
+    {
+        "insect_id": 28,
+        "url": "https://example.com/s3-bucket/28_f_khzppnfh.png"
+    },
+    {
+        "insect_id": 28,
+        "url": "https://example.com/s3-bucket/28_f_eazekw4t.png"
+    },
+    {
+        "insect_id": 29,
+        "url": "https://example.com/s3-bucket/29_bb_4zivaa7u.png"
+    },
+    {
+        "insect_id": 30,
+        "url": "https://example.com/s3-bucket/30_hl_pw6mj8sx.png"
+    },
+    {
+        "insect_id": 30,
+        "url": "https://example.com/s3-bucket/30_hl_qhwxr0k7.png"
+    },
+    {
+        "insect_id": 31,
+        "url": "https://example.com/s3-bucket/31_bl_eenxyky8.png"
+    },
+    {
+        "insect_id": 32,
+        "url": "https://example.com/s3-bucket/32_ch_ar4jfeb4.png"
+    },
+    {
+        "insect_id": 33,
+        "url": "https://example.com/s3-bucket/33_lh_kl85chaw.png"
+    },
+    {
+        "insect_id": 34,
+        "url": "https://example.com/s3-bucket/34_bf_t0x17gum.png"
+    },
+    {
+        "insect_id": 34,
+        "url": "https://example.com/s3-bucket/34_bf_qlvqkw3e.png"
+    },
+    {
+        "insect_id": 35,
+        "url": "https://example.com/s3-bucket/35_gf_kasttxv9.png"
+    },
+    {
+        "insect_id": 35,
+        "url": "https://example.com/s3-bucket/35_gf_vdpjwene.png"
+    },
+    {
+        "insect_id": 36,
+        "url": "https://example.com/s3-bucket/36_cf_ko0kvqdb.png"
+    },
+    {
+        "insect_id": 36,
+        "url": "https://example.com/s3-bucket/36_cf_85lubog9.png"
+    },
+    {
+        "insect_id": 37,
+        "url": "https://example.com/s3-bucket/37_df_cuy8h5vd.png"
+    },
+    {
+        "insect_id": 37,
+        "url": "https://example.com/s3-bucket/37_df_rzzjhz3d.png"
+    },
+    {
+        "insect_id": 38,
+        "url": "https://example.com/s3-bucket/38_wg_w64d5znq.png"
+    },
+    {
+        "insect_id": 38,
+        "url": "https://example.com/s3-bucket/38_wg_ygymqx2f.png"
+    },
+    {
+        "insect_id": 39,
+        "url": "https://example.com/s3-bucket/39_ff_dvhnjag1.png"
+    },
+    {
+        "insect_id": 40,
+        "url": "https://example.com/s3-bucket/40_pf_hn7j6cix.png"
+    },
+    {
+        "insect_id": 41,
+        "url": "https://example.com/s3-bucket/41_df_bbnhypqe.png"
+    },
+    {
+        "insect_id": 42,
+        "url": "https://example.com/s3-bucket/42_bhm_mkfosnbb.png"
+    },
+    {
+        "insect_id": 43,
+        "url": "https://example.com/s3-bucket/43_wshm_cymxc3cw.png"
+    },
+    {
+        "insect_id": 44,
+        "url": "https://example.com/s3-bucket/44_mm_duwn885g.png"
+    },
+    {
+        "insect_id": 44,
+        "url": "https://example.com/s3-bucket/44_mm_jqyqyz8v.png"
+    },
+    {
+        "insect_id": 45,
+        "url": "https://example.com/s3-bucket/45_wm_5zymzblk.png"
+    },
+    {
+        "insect_id": 46,
+        "url": "https://example.com/s3-bucket/46_twm_zmflfnkz.png"
+    },
+    {
+        "insect_id": 47,
+        "url": "https://example.com/s3-bucket/47_imm_5pb6x0gj.png"
+    },
+    {
+        "insect_id": 48,
+        "url": "https://example.com/s3-bucket/48_ccm_nvr2zbii.png"
+    },
+    {
+        "insect_id": 48,
+        "url": "https://example.com/s3-bucket/48_ccm_yao4xtdk.png"
+    },
+    {
+        "insect_id": 49,
+        "url": "https://example.com/s3-bucket/49_asb_l93isgu6.png"
+    },
+    {
+        "insect_id": 49,
+        "url": "https://example.com/s3-bucket/49_asb_pt12ob82.png"
+    },
+    {
+        "insect_id": 50,
+        "url": "https://example.com/s3-bucket/50_hsb_ydkiztnt.png"
+    },
+    {
+        "insect_id": 50,
+        "url": "https://example.com/s3-bucket/50_hsb_hnyapi2r.png"
+    },
+    {
+        "insect_id": 51,
+        "url": "https://example.com/s3-bucket/51_gsb_pighlhno.png"
+    },
+    {
+        "insect_id": 51,
+        "url": "https://example.com/s3-bucket/51_gsb_sswprroy.png"
+    },
+    {
+        "insect_id": 52,
+        "url": "https://example.com/s3-bucket/52_cb_cwuztnwx.png"
+    },
+    {
+        "insect_id": 52,
+        "url": "https://example.com/s3-bucket/52_cb_d0b0gfh6.png"
+    },
+    {
+        "insect_id": 53,
+        "url": "https://example.com/s3-bucket/53_lmb_rs9nemes.png"
+    },
+    {
+        "insect_id": 54,
+        "url": "https://example.com/s3-bucket/54_ysf_wv3tkrki.jpg"
+    },
+    {
+        "insect_id": 55,
+        "url": "https://example.com/s3-bucket/55_ooc_cuklipks.jpg"
+    },
+    {
+        "insect_id": 56,
+        "url": "https://example.com/s3-bucket/56_ogc_ykqdkznr.jpg"
+    },
+    {
+        "insect_id": 57,
+        "url": "https://example.com/s3-bucket/57_obbc_j3ycy6mz.jpg"
+    },
+    {
+        "insect_id": 58,
+        "url": "https://example.com/s3-bucket/58_oac_1onr1yhx.jpg"
+    },
+    {
+        "insect_id": 59,
+        "url": "https://example.com/s3-bucket/59_ac_kjw92thz.png"
+    },
+    {
+        "insect_id": 60,
+        "url": "https://example.com/s3-bucket/60_ac_9dr8dfeb.png"
+    },
+    {
+        "insect_id": 61,
+        "url": "https://example.com/s3-bucket/61_bhfb_crlx9wjs.jpg"
+    },
+    {
+        "insect_id": 62,
+        "url": "https://example.com/s3-bucket/62_cbcm_i6pcqkgz.jpg"
+    },
+    {
+        "insect_id": 62,
+        "url": "https://example.com/s3-bucket/62_cbcm_itw7rc1f.jpg"
+    },
+    {
+        "insect_id": 63,
+        "url": "https://example.com/s3-bucket/63_plh_qkrr2ote.jpg"
+    },
+    {
+        "insect_id": 64,
+        "url": "https://example.com/s3-bucket/64_wsb_xhsi8jlw.jpg"
+    },
+    {
+        "insect_id": 65,
+        "url": "https://example.com/s3-bucket/65_m_57hkli1g.png"
+    },
+    {
+        "insect_id": 66,
+        "url": "https://example.com/s3-bucket/66_atm_blfs1tuk.png"
+    },
+    {
+        "insect_id": 67,
+        "url": "https://example.com/s3-bucket/67_nbm_fr4fd317.png"
+    },
+    {
+        "insect_id": 67,
+        "url": "https://example.com/s3-bucket/67_nbm_efshfarb.png"
+    },
+    {
+        "insect_id": 68,
+        "url": "https://example.com/s3-bucket/68_ldb_ox7bbhkv.png"
+    },
+    {
+        "insect_id": 69,
+        "url": "https://example.com/s3-bucket/69_mb_ben5662w.png"
+    },
+    {
+        "insect_id": 70,
+        "url": "https://example.com/s3-bucket/70_dwb_di87efi7.png"
+    },
+    {
+        "insect_id": 71,
+        "url": "https://example.com/s3-bucket/71_f_8mgnkzxx.png"
+    },
+    {
+        "insect_id": 72,
+        "url": "https://example.com/s3-bucket/72_fb_khv2nmrg.png"
+    },
+    {
+        "insect_id": 72,
+        "url": "https://example.com/s3-bucket/72_fb_obyihd0u.png"
+    },
+    {
+        "insect_id": 73,
+        "url": "https://example.com/s3-bucket/73_s_jc0mjsoe.png"
+    },
+    {
+        "insect_id": 74,
+        "url": "https://example.com/s3-bucket/74_pb_ngor8rka.png"
+    },
+    {
+        "insect_id": 75,
+        "url": "https://example.com/s3-bucket/75_fb_hy6o9swu.png"
+    },
+    {
+        "insect_id": 75,
+        "url": "https://example.com/s3-bucket/75_fb_gnzhxzsi.png"
+    },
+    {
+        "insect_id": 76,
+        "url": "https://example.com/s3-bucket/76_lfb_ucrjqgx1.png"
+    },
+    {
+        "insect_id": 76,
+        "url": "https://example.com/s3-bucket/76_lfb_piw8fpfr.png"
+    },
+    {
+        "insect_id": 77,
+        "url": "https://example.com/s3-bucket/77_bm_evcvcbh8.png"
+    }
+]
